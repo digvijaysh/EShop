@@ -12,7 +12,7 @@ const HomeScreen = {
                 </a>
                 <div class="product-name">
                     <a href="/#/product/1">
-                        ${product.name}
+                      ${product.name}
                     </a>
                 </div>
                 <div class="product-brand">
